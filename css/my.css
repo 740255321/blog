@@ -1,0 +1,27 @@
+.my-user {
+  width: 200px;
+  height: 200px;
+}
+.v[data-class="v"] .vwrap .vedit {
+  padding-right: 30px;
+}
+.v[data-class="v"] .vcards .vcard {
+  padding-right: 30px;
+}
+.v[data-class="v"] .txt-right {
+  padding-right: 30px !important;
+}
+.v[data-class="v"] .vrow {
+  padding: 10px 30px !important;
+}
+.git-desc {
+  display: flex;
+}
+.git-desc img {
+  object-fit: contain;
+  margin-right: 30px;
+}
+.git-desc .desc {
+  text-indent: 2em;
+  text-align: justify;
+}
